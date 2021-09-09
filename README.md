@@ -1,1 +1,3 @@
-# LAMBDA-Internet-Speed-Check
+# TestSpeed
+
+Test Connection Speed of Your internet
